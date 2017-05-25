@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "About.html",
     "versionFirst": "3.6.2",
     "versionPublish": "3.12.1",
     "uniqCompNum": 22,
@@ -448,7 +448,7 @@
             "showButtons": false
           },
           "title": "H A L L O",
-          "text": "<br>Ik ben Julie Charon,  een student Textiel Ontwerp op Luca School of Arts.  Voor deze opleiding heb ik reeds Interieurvormgeving gestudeerd. Vanuit deze twee opleidingen ben ik in mijn derde jaar voornamelijk bezig met hoe textiel een verzachtende rol kan spelen in de omgeving. Daarnaast voer ik een onderzoek naar hoe textiel op een multifunctionele manier kan benaderd worden en hoe dit beweging en gevoel bij de bewoner kan&nbsp;loswekken.<br>",
+          "text": "<br><span style=\"font-style: normal;\">Ik ben Julie Charon,  een student Textiel Ontwerp op Luca School of Arts.  Voor deze opleiding heb ik reeds Interieurvormgeving gestudeerd. Vanuit deze twee opleidingen ben ik in mijn derde jaar voornamelijk bezig met hoe textiel een verzachtende rol kan spelen in de omgeving. Daarnaast voer ik een onderzoek naar hoe textiel op een multifunctionele manier kan benaderd worden en hoe dit beweging en gevoel bij de bewoner kan&nbsp;loswekken.</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         }
       ]
