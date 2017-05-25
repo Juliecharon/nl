@@ -11,7 +11,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -512,15 +511,6 @@ h6,
 #header3-0 .mbr-section-title,
 #header3-0 .mbr-section-subtitle {
   text-align: center;
-}
-#header3-1 .mbr-section-title,
-#header3-1 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1 H3 {
-  color: #032e10;
-  font-family: 'Roboto', sans-serif;
-  font-size: 25px;
 }
 
 

@@ -3,7 +3,7 @@
     "currentPage": "index.html",
     "versionFirst": "3.6.2",
     "versionPublish": "3.12.1",
-    "uniqCompNum": 20,
+    "uniqCompNum": 22,
     "name": "julie charon",
     "theme": {
       "name": "mobirise3",
@@ -336,32 +336,6 @@
           "_anchor": "gallery2-2",
           "articleLayout": false,
           "allItem": "All"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#032e10",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "25px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "TOT SNEL!",
-          "meta": ""
         }
       ]
     },
