@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "About.html",
     "versionFirst": "3.6.2",
     "versionPublish": "3.12.1",
     "uniqCompNum": 23,
@@ -426,14 +426,17 @@
               "font-size": "100px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "text-align": "center"
+              "text-align": "left"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-size": "18px",
-              "text-align": "center"
+              "text-align": "left"
+            },
+            ".mbr-section-lead SPAN": {
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -461,7 +464,7 @@
             "showButtons": false
           },
           "title": "H A L L O",
-          "text": "<br><span style=\"font-style: normal;\">Ik heet Julie Charon,  een student Textiel Ontwerp aan de Luca School of Arts.  Voor deze opleiding heb ik reeds Interieurvormgeving gestudeerd. Vanuit deze twee opleidingen ben ik in mijn derde jaar Textiel ontwerp voornamelijk bezig met hoe textiel een verzachtende rol kan spelen in de omgeving. Daarnaast voer ik een onderzoek naar hoe textiel op een multifunctionele manier kan benaderd worden en hoe dit beweging en gevoel bij de bewoner kan teweeg brengen.</span><br>",
+          "text": "<br>Ik heet Julie Charon, een student Textiel Ontwerp aan de Luca School of Arts. Voor deze opleiding heb ik reeds Interieurvormgeving gestudeerd. Vanuit deze twee opleidingen ben ik in mijn derde jaar Textiel ontwerp voornamelijk bezig met hoe textiel een verzachtende rol kan spelen in de omgeving. Daarnaast voer ik een onderzoek naar hoe textiel op een multifunctionele manier kan benaderd worden en hoe dit beweging en gevoel bij de bewoner kan teweeg brengen.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         }
       ]

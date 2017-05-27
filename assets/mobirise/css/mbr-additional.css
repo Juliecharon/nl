@@ -574,13 +574,16 @@ h6,
   color: #063313;
   font-size: 100px;
   font-family: 'Montserrat', sans-serif;
-  text-align: center;
+  text-align: left;
 }
 #header5-g .mbr-section-lead {
   color: #9c9a9a;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 18px;
-  text-align: center;
+  text-align: left;
+}
+#header5-g .mbr-section-lead SPAN {
+  text-align: left;
 }
 
 
