@@ -3,7 +3,7 @@
     "currentPage": "index.html",
     "versionFirst": "3.6.2",
     "versionPublish": "3.12.1",
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "name": "julie charon",
     "theme": {
       "name": "mobirise3",
@@ -136,7 +136,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -316,6 +316,19 @@
           "_anchor": "gallery2-2",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": ""
         }
       ]
     },
@@ -448,7 +461,7 @@
             "showButtons": false
           },
           "title": "H A L L O",
-          "text": "<br><span style=\"font-style: normal;\">Ik ben Julie Charon,  een student Textiel Ontwerp op Luca School of Arts.  Voor deze opleiding heb ik reeds Interieurvormgeving gestudeerd. Vanuit deze twee opleidingen ben ik in mijn derde jaar voornamelijk bezig met hoe textiel een verzachtende rol kan spelen in de omgeving. Daarnaast voer ik een onderzoek naar hoe textiel op een multifunctionele manier kan benaderd worden en hoe dit beweging en gevoel bij de bewoner kan&nbsp;loswekken.</span><br>",
+          "text": "<br><span style=\"font-style: normal;\">Ik heet Julie Charon,  een student Textiel Ontwerp aan de Luca School of Arts.  Voor deze opleiding heb ik reeds Interieurvormgeving gestudeerd. Vanuit deze twee opleidingen ben ik in mijn derde jaar Textiel ontwerp voornamelijk bezig met hoe textiel een verzachtende rol kan spelen in de omgeving. Daarnaast voer ik een onderzoek naar hoe textiel op een multifunctionele manier kan benaderd worden en hoe dit beweging en gevoel bij de bewoner kan teweeg brengen.</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         }
       ]
@@ -813,7 +826,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -906,7 +919,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1276,7 +1289,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p>Deze beelden geven een suggestie hoe ik deze stalen in het interieur zie. Ik benader textiel op een toegepaste manier maar ik wil ook opzoek naar het beeld in het interieur.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Een spel van spontaan, flexibel en multifunctioneel textiel dat het bewegen bepaalt in onze omgeving.&nbsp;</span></p><p><br></p><p><br></p>"
+          "text": "<p><br></p><p>Deze beelden geven een suggestie hoe ik deze stalen in het interieur bekijk. Ik benader textiel op een toegepaste manier maar wil ook opzoek naar het beeld in het interieur.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Een spel van spontaan, flexibel en multifunctioneel textiel dat het bewegen bepaalt in onze omgeving.&nbsp;</span></p><p><br></p><p><br></p>"
         },
         {
           "_inherit": "gallery1",
